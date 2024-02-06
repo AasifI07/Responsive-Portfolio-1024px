@@ -1,0 +1,56 @@
+ .body_1{
+    background-color:#111;
+}
+.body_a{
+display: flex;
+justify-content: center;
+}
+.body_b{
+color: #FFFFFF;
+width: 35%;
+margin-top: 30px;
+margin-left: 30px;
+margin-bottom: 30px;
+padding-top: 5%;
+padding-left: 10%;
+}
+.b_img{
+margin-top: 80px;
+}
+.body_b h4 h2 h3{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300px;
+
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 800px;
+
+    font-size: 24px;
+    font-weight: 600px;
+text-transform: lowercase;
+}
+
+@media screen and (max-width:1024px) {
+    .body_a{
+        display: flex;
+        flex-wrap: wrap-reverse;
+        }
+        .b_img{
+            width:100%;
+            margin-top: 30px;
+            
+    
+        }
+        
+.body_b{
+width: 100%;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+
+
+
+}
+

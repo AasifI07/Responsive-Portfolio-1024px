@@ -1,0 +1,26 @@
+ .footer_main{
+    background-color:  #F9A826;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 137px;
+    padding-left: 30px;
+}
+.footer_img1{
+    padding-right: 40px;
+}
+.footer_img2{
+    padding-right: 40px;
+}
+.footer_img3{
+    padding-right: 40px;
+} 
+
+@media screen and (max-width:1024px) {
+    
+
+
+
+
+    
+}
+

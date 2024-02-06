@@ -1,0 +1,58 @@
+ .habili_main{
+    background-color: #2C2C2C;
+   
+}
+.habili_hdng{
+    display: flex;
+    justify-content: center;
+    padding-right: 200px;
+    padding-top: 100px;
+    margin-right: 80px;
+    margin-left: 200px;
+    padding-bottom: 150px;
+}
+.habili_img{
+    padding-right: 20px;
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.habili_hdng h2{
+font-size: 36px;
+font-weight: 800px;
+color:#FFF
+}
+.habili_hdng p{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #FFF;
+}
+
+@media screen and (max-width:1024px){
+    .habili_hdng{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 25%;
+    }
+    .habili_img{
+        margin-right: 50%;
+        padding-right: 20%;
+        margin-top: 20%;
+    }
+
+
+
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
